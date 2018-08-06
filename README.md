@@ -1,12 +1,12 @@
 ### Explain
 
 - 解决移动端的滚动穿透的问题；
-- 原生JS编写，支持Vue、jQuery；React、Angular未尝试；
+- 原生JS编写，支持Vue(script引入的方式)、jQuery
 
 ### Usage
 
  ```javascript
-  <script src="./node_modules/modal-helper/dist/modalHelper.js"></script>
+  <script src="./node_modules/modal-helper/dist/modal-helper.js"></script>
  ```
 
 - 监听弹框的显示和隐藏事件；以Vue为例：

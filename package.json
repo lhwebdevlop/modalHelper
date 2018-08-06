@@ -1,6 +1,6 @@
 {
   "name": "modal-helper",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "处理移动端滚动穿透问题，支持原生js、vue、juery；react，angular未知；",
   "main": "modalHepler.js",
   "scripts": {
