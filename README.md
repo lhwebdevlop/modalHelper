@@ -6,7 +6,7 @@
 ### Usage
 
  ```javascript
-  <script src="./node_modules/modal-helper/dist/modalHepler.js"></script>
+  <script src="./node_modules/modal-helper/dist/modalHelper.js"></script>
  ```
 
 - 监听弹框的显示和隐藏事件；以Vue为例：
